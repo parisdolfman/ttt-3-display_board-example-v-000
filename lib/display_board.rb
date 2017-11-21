@@ -10,5 +10,3 @@ puts
 print "   ", "|", "   ", "|", "   "
 puts
 end
-
-
