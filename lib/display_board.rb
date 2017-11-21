@@ -11,4 +11,4 @@ print "   ", "|", "   ", "|", "   "
 puts
 end
 
-display_board
+
